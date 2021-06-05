@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_201"/>
+	<classpathentry kind="lib" path="F:/apache-tomcat-8.5.35/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="E:/jars/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/jars/antlr-complete-3.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/jars/dom4j-1.6.jar"/>
+	<classpathentry kind="lib" path="E:/jars/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="E:/jars/hibernate-core-5.0.4.Final.jar"/>
+	<classpathentry kind="lib" path="E:/jars/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/jars/javassist.jar"/>
+	<classpathentry kind="lib" path="E:/jars/javax.xml.bind.jar"/>
+	<classpathentry kind="lib" path="E:/jars/jaxb-osgi.jar"/>
+	<classpathentry kind="lib" path="E:/jars/jboss-logging-3.4.1.Final.jar"/>
+	<classpathentry kind="lib" path="E:/jars/jta-1_1.jar"/>
+	<classpathentry kind="lib" path="E:/jars/log4j.jar"/>
+	<classpathentry kind="lib" path="E:/jars/mysql-connector-java-8.0.24.jar"/>
+	<classpathentry kind="lib" path="E:/jars/persistence-api-1.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/jars/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
